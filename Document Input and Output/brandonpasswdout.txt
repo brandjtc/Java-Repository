@@ -1,0 +1,35 @@
+PasswordGreat! is not a valid password.
+Incorrect number of digits. Password requires exactly two digits
+
+Passw0rD$2great iss a valid password.
+Password accepted.
+
+pswd12GR is not a valid password.
+Incorrect number of special characters. You need exactly 1 in the password.
+Password too short. Password requires miniumum of 12 digits.
+
+12password! is not a valid password.
+Incorrect number of uppercase letters. You need exactly 2 in the password. 
+Password too short. Password requires miniumum of 12 digits.
+
+1234567890 is not a valid password.
+Incorrect number of special characters. You need exactly 1 in the password.
+Incorrect number of uppercase letters. You need exactly 2 in the password. 
+Incorrect number of digits. Password requires exactly two digits
+Password too short. Password requires miniumum of 12 digits.
+
+G00dpasss%wD iss a valid password.
+Password accepted.
+
+Gr8Password is not a valid password.
+Incorrect number of special characters. You need exactly 1 in the password.
+Incorrect number of digits. Password requires exactly two digits
+Password too short. Password requires miniumum of 12 digits.
+
+bad pass is not a valid password.
+Incorrect number of special characters. You need exactly 1 in the password.
+Incorrect number of uppercase letters. You need exactly 2 in the password. 
+Password contains a space. This is not allowed.
+Incorrect number of digits. Password requires exactly two digits
+Password too short. Password requires miniumum of 12 digits.
+
